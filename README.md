@@ -52,7 +52,3 @@ I'm a Computer Science student and Software Engineer from Islamabad, Pakistan. I
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadMaazAbid&show_icons=true&theme=radical" />
-</p>
