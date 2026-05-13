@@ -1,12 +1,14 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Maaz&fontSize=80&fontAlignY=40&desc=Full-Stack%20Developer%20%26%20Founder%20of%20Insightify&descSize=25&descAlignY=65)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Maaz&fontSize=80&fontAlignY=40&desc=Full-Stack%20Developer%20%26%20Founder%20of%20Insightify&descSize=25&descAlignY=65" width="100%" alt="Banner" />
 
 ### 👋 Hi, I'm Muhammad Maaz
 
-[![Resume](https://img.shields.io/badge/-RESUME-32CD32?style=for-the-badge)](https://drive.google.com/file/d/1JHy1I3bkZyA4o_Ql6DajAlh8tm6wgqNB/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1JHy1I3bkZyA4o_Ql6DajAlh8tm6wgqNB/view?usp=sharing">
+  <img src="https://img.shields.io/badge/-RESUME-32CD32?style=for-the-badge" alt="Resume" />
+</a>
 
 I'm a Computer Science student and Software Engineer from Islamabad, Pakistan. I specialize in building end-to-end systems, from mobile and web frontends to robust, AI-integrated backends. I am currently leading technical development for Insightify, an AI-driven scam and deepfake detection platform.
 
-![Profile Views](https://komarev.com/ghpvc/?username=MuhammadMaazAbid&style=for-the-badge&color=007ec6&label=Profile+views)
+<img src="https://komarev.com/ghpvc/?username=MuhammadMaazAbid&style=for-the-badge&color=007ec6&label=Profile+views" alt="Profile Views" />
 
 ---
 
@@ -21,8 +23,6 @@ I'm a Computer Science student and Software Engineer from Islamabad, Pakistan. I
 </p>
 
 ---
-
-### 💻 Languages & Tools
 
 ### 💻 Languages & Tools
 
@@ -52,6 +52,7 @@ I'm a Computer Science student and Software Engineer from Islamabad, Pakistan. I
 <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=nasm&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
 </p>
+
 ---
 
 ### 📈 GitHub Stats
